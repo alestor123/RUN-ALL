@@ -4,6 +4,7 @@
   "description": "This is a simple code for running all npm scripts at once",
   "main": "App.js",
   "scripts": {
+    "yeah":"echo hell yeah",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
